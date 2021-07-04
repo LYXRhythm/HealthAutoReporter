@@ -1,3 +1,6 @@
-在credentials.json中填写学号与密码，然后使用命令
-python HealthAutoReporter.py
-保持执行，程序会自动在每日runtime时间进行打卡
+add your Student Number and Code in the credentials.json,
+then input the command in the shell
+
+  python HealthAutoReporter.py
+  
+and the program will clock in automatically every day
